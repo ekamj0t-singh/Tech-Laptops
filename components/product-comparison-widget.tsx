@@ -76,7 +76,7 @@ const laptops = [
     name: "ROG Strix",
     category: "Gaming",
     price: 129990,
-    image: "https://m.media-amazon.com/images/I/71qRWDn7yoL._SL1500_.jpg?height=200&width=300",
+    image: "https://dlcdnwebimgs.asus.com/gain/066A5427-B944-4013-9B6B-35B72F3F4F4B/w1000/h732?height=200&width=300",
     specs: {
       processor: "AMD Ryzen 9 7945HX",
       memory: "32GB DDR5",
